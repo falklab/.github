@@ -14,11 +14,9 @@ We have developed a number of pipelines combining multiple pieces of software.
 These are kept by member of the group on their personal accounts.
 Below are links to pipelines developed in the group.
 
-* **LotuS2**
-([github](https://github.com/hildebra/lotus2)) 
-([web](http://lotus2.earlham.ac.uk))
-([conda](http://lotus2.earlham.ac.uk))
-16S/23S/ITS amplicon sequencing pipeline for illumina and PacBio sequences.
+* **LotuS3**
+([github](https://github.com/hildebra/lotus3)) 
+16S/23S/ITS & other target amplicon sequencing pipeline for long & short read sequencing.
 
 * **MG-TK**
 ([github](https://github.com/hildebra/MG-TK)) 
@@ -108,6 +106,12 @@ versions.
 ([conda](https://anaconda.org/bioconda/rtk))
 ([cran](https://cran.r-project.org/web/packages/rtk/index.html))
 Rarefaction and diversity analysis. Updated in RTK2.
+
+* **LotuS2**
+([github](https://github.com/hildebra/lotus2)) 
+([web](http://lotus2.earlham.ac.uk))
+([conda](http://lotus2.earlham.ac.uk))
+16S/23S/ITS amplicon sequencing pipeline for illumina and PacBio sequences.
 
 * **LotuS**
 ([web](http://psbweb05.psb.ugent.be/lotus)) 
