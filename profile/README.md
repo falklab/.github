@@ -16,7 +16,7 @@ Below are links to pipelines developed in the group.
 
 * **LotuS3**
 ([github](https://github.com/hildebra/lotus3)) 
-16S/23S/ITS & other target amplicon sequencing pipeline for long & short read sequencing.
+16S/18S/ITS & other target amplicon sequencing pipeline for long & short read sequencing.
 
 * **MG-TK**
 ([github](https://github.com/hildebra/MG-TK)) 
@@ -111,7 +111,7 @@ Rarefaction and diversity analysis. Updated in RTK2.
 ([github](https://github.com/hildebra/lotus2)) 
 ([web](http://lotus2.earlham.ac.uk))
 ([conda](http://lotus2.earlham.ac.uk))
-16S/23S/ITS amplicon sequencing pipeline for illumina and PacBio sequences.
+16S/23S/ITS amplicon sequencing pipeline for illumina and PacBio sequences, supersed by LotuS3.
 
 * **LotuS**
 ([web](http://psbweb05.psb.ugent.be/lotus)) 
