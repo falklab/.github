@@ -26,6 +26,11 @@ MetaGenomic ToolKit, pipeline handling end-to-end processing of metagenomes.
 ([github](https://github.com/apduncan/bm-tk)) 
 Batch prediction of base modfication for PacBio data from kinetics information.
 
+* **gRAIL-TK**
+([github](https://github.com/nabina99/gRAIL-TK))
+(*repo currently private, request access from Nabina.Shrestha@quadram.ac.uk*)
+Integrates guide RNA design, off target prediction, and target prioritization into an automated, configurable pipeline for CRISPR based genomic enrichment.
+
 ## Software
 Software developed by members of the group are kept on their personal
 github accounts.
