@@ -22,6 +22,11 @@ Below are links to pipelines developed in the group.
 ([github](https://github.com/hildebra/MG-TK)) 
 MetaGenomic ToolKit, pipeline handling end-to-end processing of metagenomes.
 
+* **MG-STK**
+([github](https://github.com/ksidorczuk/mg-stk))
+(*repo currently private, request access from Katarzyna.Sidorczuk@quadram.ac.uk*)
+MetaGenomic Strain ToolKit, tools which integrate with MG-TK to perform strain and strain enrichment analysis.
+
 * **BM-TK**
 ([github](https://github.com/apduncan/bm-tk)) 
 Batch prediction of base modfication for PacBio data from kinetics information.
