@@ -71,7 +71,7 @@ k-mer-based strain-level metagenomic profiler.
 
 * **DDT**
 ([github](https://github.com/hildebra/ddt))
-(*repo currently private*)
+(*repo currently private, request access from Falk.Hildebrand@quadram.ac.uk*)
 Comprehensive numerical ecology statistics & analysis in R. 
 
 * **RTK2**
