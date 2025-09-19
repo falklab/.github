@@ -69,6 +69,11 @@ Evaluation suite for taxonomic profiler performance.
 ([github](https://github.com/4less/varkit)) 
 k-mer-based strain-level metagenomic profiler.
 
+* **DDT**
+([github](https://github.com/hildebra/ddt))
+(*repo currently private*)
+Comprehensive numerical ecology statistics & analysis in R. 
+
 * **RTK2**
 ([github](https://github.com/hildebra/rtk2)) 
 ([conda](https://anaconda.org/bioconda/rtk2))
