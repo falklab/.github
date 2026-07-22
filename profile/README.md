@@ -18,9 +18,9 @@ Below are links to pipelines developed in the group.
 ([github](https://github.com/hildebra/lotus3)) 
 16S/18S/ITS & other target amplicon sequencing pipeline for long & short read sequencing.
 
-* **MG-TK**
-([github](https://github.com/hildebra/MG-TK)) 
-MetaGenomic ToolKit, pipeline handling end-to-end processing of metagenomes.
+* **MATAFILER4**
+([github](https://github.com/hildebra/MATAFILER4)) 
+Metagenomic Assembly, TAxonomy and Functional profILER; pipeline handling end-to-end processing of metagenomes.
 
 * **MG-STK**
 ([github](https://github.com/ksidorczuk/mg-stk))
@@ -132,7 +132,7 @@ Rarefaction and diversity analysis. Updated in RTK2.
 ([web](http://psbweb05.psb.ugent.be/lotus)) 
 Amplicon sequencing pipelines. Superseded by LotuS2.
 
-* **MATAFILER**
-([github](https://github.com/hildebra/MATAFILER)) 
-Metagenomics pipeline, replaced by MG-TK.
+* **MATAFILER and MG-TK**
+([github](https://github.com/hildebra/MATAFILER), [github](https://github.com/hildebra/MG-TK)) 
+Metagenomics pipeline, replaced by MATAFILER4.
 
